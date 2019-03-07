@@ -1,5 +1,5 @@
-# Project-Portfolio-Wildlife-gallery-Webpage
-Python: Django Project
+# Python-Django-Project
+## Python: Django Project
 
 To depoy this project on your end, First of all install Python 3, after that use these  following steps.
 1. Get inside the project directory and type: pip install psycopg2 and pip install Pillow 
